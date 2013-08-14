@@ -40,6 +40,7 @@
     "awsboxen": "0.4.x",
     "lazysmtp": "git://github.com/dannycoates/node-lazysmtp.git#b15f4bf4e9",
     "request": "2.21.x",
+    "zmq": "2.4.x",
     "tap": "0.4.3"
   }
 }
