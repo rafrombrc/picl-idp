@@ -1,4 +1,4 @@
-DBPassword:
-  Type: String
-  Description: password to use for database access
-  Default: piclmesoftly
+DNSPrefix:
+  Default: "loadtest"
+  Type: "String"
+  Description: "prefix for dns names, to avoid conflicts"
